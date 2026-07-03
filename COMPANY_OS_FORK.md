@@ -5,7 +5,9 @@ Created: 2026-07-03 KST
 This local branch is the Company OS fork base for Hermes Agent runtime work.
 
 - Branch: `company-os-base`
-- Source commit: `3e21cfdebbf790e3b2a89b01084a8aa86914c9a5`
+- Upstream commit: `88b720ebb43830ee866ad609998e0e9e59cf07cc`
+- GitHub fork: `https://github.com/GLOBALHASHTAG-Corp/hermes-agent`
+- Upstream remote: `https://github.com/NousResearch/hermes-agent.git`
 - Local fork path: `/Users/junior_build/project/company-os/forks/hermes-agent`
 - Source snapshot: `/Users/junior_build/project/company-os/references/upstreams/hermes`
 - Main repo decision record: `/Users/junior_build/project/company-os/docs/hermes-fork-base.md`
